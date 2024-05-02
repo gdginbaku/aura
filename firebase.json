@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"myaurapp",
+    "site":"gdgroupbaku",
     "public": "dist",
     "rewrites": [ {
         "source": "**",

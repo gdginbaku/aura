@@ -12,7 +12,7 @@ module.exports = defineConfig({
   ],
   productionSourceMap: false,
   pwa: {
-    name: 'Aura Main',
+    name: 'GDG Baku',
     // workboxPluginMode: 'InjectManifest',
     themeColor: '#4A90E2',
     msTileColor: '#4A90E2',

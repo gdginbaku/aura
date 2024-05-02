@@ -78,15 +78,15 @@ export default new Vuex.Store({
           showBottomNav: false
         },
       },
-      {
-        text: 'Blogs',
-        to: '/blogs',
-        icon: 'mdi-newspaper-variant-multiple-outline',
-        meta: {
-          showToolbar: true,
-          showBottomNav: false
-        },
-      }
+      // {
+      //   text: 'Blogs',
+      //   to: '/blogs',
+      //   icon: 'mdi-newspaper-variant-multiple-outline',
+      //   meta: {
+      //     showToolbar: true,
+      //     showBottomNav: false
+      //   },
+      // }
     ]
   },
   getters: {
